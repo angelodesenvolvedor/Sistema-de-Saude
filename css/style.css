@@ -1,0 +1,71 @@
+/* Estilos gerais */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+  color: #2d4059;
+}
+
+/* Estilos para o quadro de notificações */
+#notificationBox {
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+}
+
+/* Estilos para as seções */
+.section {
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.section h2 {
+  margin-bottom: 20px;
+  color: #2d4059;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 10px;
+}
+
+/* Estilos para os formulários */
+.form-group {
+  margin-bottom: 20px;
+}
+
+/* Estilos para os botões */
+.btn {
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+/* Estilos para os botões de ícone */
+.btn i {
+  margin-right: 8px;
+}
+
+/* Estilos para a lista de consultas */
+.list-group-item {
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
