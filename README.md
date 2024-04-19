@@ -1,8 +1,8 @@
-**Sistema de Gestão de Saúde**
+## Sistema de Gestão de Saúde
 
 ---
 
-**Introdução:**
+**📌 Introdução:**
 
 O Sistema de Gestão de Saúde é uma aplicação web desenvolvida para simplificar e otimizar a administração de informações e processos relacionados à saúde em ambientes médicos. Com uma interface intuitiva e funcionalidades abrangentes, o sistema visa melhorar a eficiência dos serviços de saúde, proporcionando uma gestão mais eficaz e organizada.
 
