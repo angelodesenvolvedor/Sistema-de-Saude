@@ -14,7 +14,7 @@
 6. Fomentar a Interatividade com os Pacientes.
 7. Promover a Eficiência Operacional.
 
-**💻 Tecnologias Utilizadas:**
+## 💻 Tecnologias Utilizadas
 
 - HTML e CSS
 - Bootstrap
