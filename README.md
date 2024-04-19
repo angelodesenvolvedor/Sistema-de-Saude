@@ -28,5 +28,5 @@
 
 ## 📄 Licença
 
-* Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
+* Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Sistema-de-Saude?tab=MIT-1-ov-file).
 
