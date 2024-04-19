@@ -1,9 +1,8 @@
 ## Sistema de Gestão de Saúde
 
+* O Sistema de Gestão de Saúde é uma aplicação web desenvolvida para simplificar e otimizar a administração de informações e processos relacionados à saúde em ambientes médicos. Com uma interface intuitiva e funcionalidades abrangentes, o sistema visa melhorar a eficiência dos serviços de saúde, proporcionando uma gestão mais eficaz e organizada.
+
 ## 📌 Introdução
-
-O Sistema de Gestão de Saúde é uma aplicação web desenvolvida para simplificar e otimizar a administração de informações e processos relacionados à saúde em ambientes médicos. Com uma interface intuitiva e funcionalidades abrangentes, o sistema visa melhorar a eficiência dos serviços de saúde, proporcionando uma gestão mais eficaz e organizada.
-
 
 **Objetivos do Projeto:**
 
@@ -15,17 +14,13 @@ O Sistema de Gestão de Saúde é uma aplicação web desenvolvida para simplifi
 6. Fomentar a Interatividade com os Pacientes.
 7. Promover a Eficiência Operacional.
 
----
-
-**Tecnologias Utilizadas:**
+**💻 Tecnologias Utilizadas:**
 
 - HTML e CSS
 - Bootstrap
 - JavaScript (com jQuery)
 - PHP (opcional)
 - MySQL (ou outro banco de dados)
-
----
 
 **Autores:**
 
