@@ -16,11 +16,10 @@
 
 ## 💻 Tecnologias Utilizadas
 
-- HTML e CSS
-- Bootstrap
-- JavaScript (com jQuery)
-- PHP (opcional)
-- MySQL (ou outro banco de dados)
+- HTML: Utilizado para a estruturação da interface do usuário
+- CSS: Utilizado para estilização da interface do usuário.
+- Bootstrap - Framework CSS utilizado para agilizar o desenvolvimento da interface, fornecendo componentes pré-estilizados e responsivos.
+- JavaScript (com jQuery) - Utilizado para adicionar interatividade ao sistema, como validação de formulários, manipulação do DOM e requisições assíncronas.
 
 ## 👷 Autor
 
