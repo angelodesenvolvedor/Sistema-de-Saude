@@ -16,14 +16,15 @@
 
 ## 💻 Tecnologias Utilizadas
 
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): Utilizado para a estruturação da interface do usuário
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white): Utilizado para estilização da interface do usuário.
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) - Utilizado para a estruturação da interface do usuário
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) - Utilizado para estilização da interface do usuário.
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) - Framework CSS utilizado para agilizar o desenvolvimento da interface, fornecendo componentes pré-estilizados e responsivos.
-- JavaScript (com jQuery) - Utilizado para adicionar interatividade ao sistema, como validação de formulários, manipulação do DOM e requisições assíncronas.
-
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - Utilizado para adicionar interatividade ao sistema, como validação de formulários, manipulação do DOM e requisições assíncronas.
+- ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) - Biblioteca JavaScript utilizada para simplificar a manipulação do DOM, facilitando o desenvolvimento de funcionalidades interativas.
+  
 ## 👷 Autor
 
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
+* **Angelo Silvano** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
 
 ## 📄 Licença
 
