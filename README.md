@@ -22,15 +22,11 @@
 - PHP (opcional)
 - MySQL (ou outro banco de dados)
 
-**Autores:**
+## 👷 Autor
 
-- João Silva - Desenvolvimento Frontend - joao_silva_dev
-- Maria Oliveira - Desenvolvimento Backend - maria_oliveira_dev
-- Pedro Souza - Design de Interface - pedro_souza_dev
-- Ana Santos - Testes e Qualidade - ana_santos_dev
+* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
 
----
+## 📄 Licença
 
-**Licença:**
+* Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
 
-Este projeto está sob a licença **MIT** - para mais detalhes, consulte o arquivo LICENSE.md.
