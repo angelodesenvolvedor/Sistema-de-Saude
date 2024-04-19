@@ -4,7 +4,7 @@
 
 ## 📌 Introdução
 
-**Objetivos do Projeto:**
+**Funcionalidades:**
 
 1. Facilitar o Registro de Pacientes.
 2. Agilizar o Agendamento de Consultas.
